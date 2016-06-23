@@ -1,2 +1,6 @@
 # hello-world
-step 1
+
+
+Hello Friends!
+
+I want to be a web developer.
